@@ -1,0 +1,63 @@
+# דודל וידאו — Generative Engine Optimization Map
+
+> סטודיו לסרטוני אנימציה שיווקיים. אנחנו מתמחים בהפיכת רעיונות מורכבים, לסרטוני אנימציה פשוטים וברורים שמסבירים מה אתם עושים ולמה אתם הכי טובים בזה.
+
+---
+
+## Pages
+
+### דף הבית
+https://-a16adbaf.zappy5.app
+גלו סרטוני אנימציה שיווקיים מקצועיים שמסבירים את המוצר שלכם בצורה ברורה ומרתקת. צרו קשר עוד היום!
+
+### שירותים
+https://-a16adbaf.zappy5.app/services
+גלו את מגוון שירותי הפקת סרטוני אנימציה שיווקיים לעסקים - מסרטוני דודל אנימציה ועד תסריטים מקצועיים. התאימו אישית!
+
+### אודות
+https://-a16adbaf.zappy5.app/about
+הכירו את הצוות של דודל וידאו - מומחים ביצירת סרטוני אנימציה שיווקיים שמניעים תוצאות עסקיות. הסיפור שלנו והערכים שלנו.
+
+### צור קשר
+https://-a16adbaf.zappy5.app/contact
+צרו קשר עם דודל וידאו להפקת סרטוני אנימציה שיווקיים מקצועיים. נשמח לשמוע על הפרויקט הבא שלכם ולהציע פתרון מותאם אישית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-a16adbaf.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-a16adbaf.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-a16adbaf.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About דודל וידאו
+סטודיו לסרטוני אנימציה שיווקיים. אנחנו מתמחים בהפיכת רעיונות מורכבים, לסרטוני אנימציה פשוטים וברורים שמסבירים מה אתם עושים ולמה אתם הכי טובים בזה.
+
+## Services/Products
+- סרטוני אנימציה שיווקיים
+- סרטוני דודל אנימציה
+- הסבר מוצרים ושירותים
+- תסריטים שיווקיים
+
+## Target Audience
+עסקים בינוניים וגדולים, יזמים, סטארטאפים, ארגונים ועמותות
+
+## Industry
+יצירת תוכן דיגיטלי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-a16adbaf.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-a16adbaf.zappy5.app/robots.txt
